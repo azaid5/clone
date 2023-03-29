@@ -143,6 +143,12 @@ void aCruz66() {
   printf(" I learned that you can squash commitsall into one clean commit");
 }
 
+void azaid5_numar2(){
+  printf("Alisha zaidi, nameera umar\n");
+  printf("we learned how to use git commands in terminal");
+  
+}
+
 int main() {
   printf("This code has been created by the students of CS 211, Spring 2023!\n\n");
   reed_ekidan2();
@@ -163,6 +169,7 @@ int main() {
   rwisni2_ajoshi46();
   wsitu3();
   aCruz66();
+  azaid5_numar2();
   
     
   return 0;

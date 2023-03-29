@@ -138,6 +138,11 @@ void wsitu3() {
   printf("I had trouble understand how to reflect changes made locally to the repository using add and commit");
 }
 
+void aCruz66() {
+  printf("Alexander Cruz\n");
+  printf(" I learned that you can squash commitsall into one clean commit");
+}
+
 int main() {
   printf("This code has been created by the students of CS 211, Spring 2023!\n\n");
   reed_ekidan2();
@@ -157,6 +162,7 @@ int main() {
   svoda_jbrya4();
   rwisni2_ajoshi46();
   wsitu3();
+  aCruz66();
   
     
   return 0;
